@@ -1,5 +1,5 @@
 body{
-		background-image: url('./image/math.jpg');
+		background-image: url('./math.jpg');
 	}
 
 .calculator {
@@ -60,8 +60,6 @@ button:hover {
 	padding: 1px 15px;
 	margin: 0 auto;
 	text-align: center;
-}
-
-.container h1 {
 	color: #fff;
 }
+
