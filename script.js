@@ -119,4 +119,4 @@ const percentageNumber = () => {
 		return;
 	}
 	currentNumber = currentNumber / 100;
-}
+} 
