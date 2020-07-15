@@ -48,7 +48,7 @@ button {
 }
 
 button:hover {
-	background-color: #25CCF7;
+	background-color: #1B9CFC;
 }
 
 .operator:hover, .equal-sign:hover {
@@ -60,6 +60,6 @@ button:hover {
 	padding: 1px 15px;
 	margin: 0 auto;
 	text-align: center;
-	color: #fff;
+	color: #FC427B;
 }
  
