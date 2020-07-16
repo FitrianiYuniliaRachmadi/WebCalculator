@@ -1,2 +1,2 @@
 # WebCalculator
-Tugas DTS Batch 2 
+Tugas Individu Progate-DTS Batch 2
